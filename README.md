@@ -3,7 +3,8 @@ Simple GUI made with python to Encrypt Any PDF file with password and you can al
 
 
 # Pip Installs 
-Install PyPDF2 -> pip install PyPDF2
+Install PyPDF2 -> pip install PyPDF2 
+
 Install Tkinter -> pip install tkinter
 
 # Made With ?
